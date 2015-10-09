@@ -1,0 +1,8 @@
+访问服务器
+1.浏览器
+http://localhost:8080/WechatServlet/shuoming
+2.模拟机
+http://10.0.2.2:8080/test/Test.xml
+映射网址，及外网访问
+http://hjx.tunnel.mobi/WechatServlet/shuoming
+http://hjx.tunnel.mobi/WechatServlet/wx.do
