@@ -113,10 +113,10 @@ public class MessageUti {
 	
 	
 
-/**
- * 提示消息，当用户随便输入text时，会调用这个方法
- * @return
- */
+	/**
+         * 提示消息，当用户随便输入text时，会调用这个方法
+ 	 * @return
+	 */
 	public static String tishi() {
 		StringBuffer stringBuffer = new StringBuffer();
 		stringBuffer.append("请按照正常操作来执行，调出主菜单请按0");
